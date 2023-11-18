@@ -22,6 +22,10 @@ This took 1 week to complete.
 
 In the project directory, you can run:
 
+### `npm install`
+
+Installs required dependencies onto the system and rebuilds the package-lock.json file.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
